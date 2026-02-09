@@ -79,12 +79,3 @@ def validate_quiz_data(questions: list) -> tuple:
             return False, f"Question {idx}: Explanation too long (max 200 chars)"
     
     return True, ""
-```
-
-===== requirements.txt =====
-```
-pyrogram==2.0.106
-TgCrypto==1.2.5
-motor==3.3.2
-pandas==2.1.4
-python-dotenv==1.0.0
