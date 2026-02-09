@@ -2,6 +2,8 @@
 
 A production-ready Telegram Quiz Bot built with Pyrogram, MongoDB, and Docker. Supports CSV/TXT file uploads, multiple simultaneous quizzes, real-time scoring, and automatic leaderboards.
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jodmarmik/quizbot)
+
 ## ✨ Features
 
 - 📁 **Multiple Input Methods**: CSV file, TXT file, or direct text paste
